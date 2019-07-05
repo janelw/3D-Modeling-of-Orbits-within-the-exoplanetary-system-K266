@@ -4,3 +4,5 @@ I used the updated version of Vpython to create two visual representations of th
 For more conceptualization of what my code is doing, see the attached paper and presentation. 
 Like the rest of my codes, they were created on jupyter notebook. It is possible for this code to be adapted to other planets, the only requirement is that the data come from NASA Exoplanet Archive, as they are in the best suited format to be read into an ascii table (they can be exported onto excel sheets). 
 For a more in depth explaination of my code and what it's doing, see the attached paper. 
+
+  Videos of how the code runs can be found in the power point presentation slides on slide 9. 
